@@ -1,0 +1,4 @@
+ --- applications:
+ - name: PRIMALITY_UNIQUE
+ - random-route: true
+ - memory: 256M
